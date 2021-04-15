@@ -1,3 +1,6 @@
 # youtube_downloader
 
-Paste the youtube link and start downloading..!
+* Paste the youtube video link
+* Click “Start Download” button
+* Choose destination file location
+* Congratulations! Downloading is started. 
